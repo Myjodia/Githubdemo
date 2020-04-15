@@ -1,16 +1,24 @@
 # githubdemo
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+4 Screens in Application
+# Github Users
+# Profile
+# Following
+# Followers
 
-This project is a starting point for a Flutter application.
+*Github Users*
+ -All users of github list using Bloc Pattern
 
-A few resources to get you started if this is your first Flutter project:
+*Profile*
+ -All users Profile of github userlist using Bloc Pattern
+ -Followers and Following button contains link of Next screen page.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+*Followers*
+ -Followers data of current profile user
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Following*
+ -Following list of data of current profile user
+
+Screenshots are attached of Screens in github account..
